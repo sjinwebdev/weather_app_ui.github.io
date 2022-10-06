@@ -1,0 +1,41 @@
+.forecast-wrapper{ 
+    width: 70vw;
+    display: flex; 
+    /* justify-content: center; */
+    /* align-items: center; */
+    flex-wrap: wrap;
+ flex-direction: column; 
+}
+.forecast-info{ 
+    width : 95%;
+    background-color : #fff;
+    height : 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.exact-temp{
+    margin : 2px;
+    padding : 10px;
+}
+
+.forecast-day{
+    margin : 2px;
+    padding : 10px;
+}
+p {
+    text-align: center;
+    background-color: white;
+    width: 59vw;
+    margin: 4rem auto 0 auto;
+    padding: 1rem;
+    font-size: 1.1rem;;
+    font-weight: 600;
+    background-color: rgba(58, 57, 57, 0.6);
+    color: white;
+}
+
+.rec.rec-dot{
+    display: none;
+}

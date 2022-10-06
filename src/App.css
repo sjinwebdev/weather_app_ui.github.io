@@ -1,0 +1,55 @@
+App{
+  margin : 0;
+  padding : 0;
+  box-sizing: border-box;
+  background-color : rgba(19, 43, 87, 0.416);
+}
+
+.main-wrapper{ 
+  display: flex;
+  align-items : center;
+  justify-content : center;
+  flex-direction : column;
+  margin: 3rem;
+  border-radius : 2rem;
+  max-width : 100vw;
+}
+.top-wrapper{ 
+  display: flex;
+  justify-content : space-between;
+  align-items : center;
+  flex-direction : row;
+  width : 60vw;
+  background-color : #000;
+  opacity : 0.6;
+  color : white;
+  font-weight: 500;
+  font-size : 1.5rem;
+  padding : 0.5rem;
+}
+/*https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3BmLTQxLWx1a2VzdGFja3Bvb2xlLWdyZWVubGFuZC1jYWJpbi0wMWEuanBn.jpg*/
+.top-wrapper-info{
+  width : 60vw;
+  display: flex;
+  justify-content :space-between;
+  align-items : center;
+  background-image: url('https://img.freepik.com/premium-photo/backgrounds-night-sky-with-stars-clouds_180633-4011.jpg?w=2000');
+  color : #fff;
+  padding : 0.5rem;
+  background-size : cover;
+  font-size : 1.5rem;
+  
+}
+
+.top-wrapper-heading-info{
+  display : flex;
+  align-items : flex-start;
+  justify-content :center;
+  flex-direction: column;
+  margin-left : 1rem;
+}
+
+.heading-temp{
+  font-size : 4rem;
+  font-weight: 700;
+}
