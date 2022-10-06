@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       {Object.values(data).map((items, index) => (
-        <div className="main-wrapper">
+        <div className="main-wrapper" key={index}>
           <div className="top-wrapper">
             {items.results.channel.location.city} City,{" "}
             {items.results.channel.location.region},{" "}
