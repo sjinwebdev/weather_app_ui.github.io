@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/sjinwebdev/weather_app_ui/static/css/main.b6515278.css",
-    "main.js": "/sjinwebdev/weather_app_ui/static/js/main.7c5cc223.js",
-    "static/media/crescent-moon.svg": "/sjinwebdev/weather_app_ui/static/media/crescent-moon.af94d88e8a48c658d966dee9db76a0e4.svg",
-    "index.html": "/sjinwebdev/weather_app_ui/index.html",
-    "main.b6515278.css.map": "/sjinwebdev/weather_app_ui/static/css/main.b6515278.css.map",
-    "main.7c5cc223.js.map": "/sjinwebdev/weather_app_ui/static/js/main.7c5cc223.js.map"
+    "main.css": "/sjinwebdev/weather_app_ui.github.io/static/css/main.d21501a4.css",
+    "main.js": "/sjinwebdev/weather_app_ui.github.io/static/js/main.64b6b445.js",
+    "static/media/crescent-moon.svg": "/sjinwebdev/weather_app_ui.github.io/static/media/crescent-moon.af94d88e8a48c658d966dee9db76a0e4.svg",
+    "index.html": "/sjinwebdev/weather_app_ui.github.io/index.html",
+    "main.d21501a4.css.map": "/sjinwebdev/weather_app_ui.github.io/static/css/main.d21501a4.css.map",
+    "main.64b6b445.js.map": "/sjinwebdev/weather_app_ui.github.io/static/js/main.64b6b445.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6515278.css",
-    "static/js/main.7c5cc223.js"
+    "static/css/main.d21501a4.css",
+    "static/js/main.64b6b445.js"
   ]
 }
